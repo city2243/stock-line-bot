@@ -2,3 +2,5 @@ Flask==2.3.3
 line-bot-sdk==3.5.0
 gunicorn==21.2.0
 requests==2.31.0
+gspread==5.12.0
+google-auth==2.23.4
